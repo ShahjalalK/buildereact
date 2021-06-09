@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.42d9aeaa.chunk.css",
+    "main.js": "/static/js/main.9ba8773f.chunk.js",
+    "main.js.map": "/static/js/main.9ba8773f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f88bf2b5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f88bf2b5.js.map",
+    "static/css/2.1364c1b9.chunk.css": "/static/css/2.1364c1b9.chunk.css",
+    "static/js/2.44290899.chunk.js": "/static/js/2.44290899.chunk.js",
+    "static/js/2.44290899.chunk.js.map": "/static/js/2.44290899.chunk.js.map",
+    "static/js/3.157aff90.chunk.js": "/static/js/3.157aff90.chunk.js",
+    "static/js/3.157aff90.chunk.js.map": "/static/js/3.157aff90.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1364c1b9.chunk.css.map": "/static/css/2.1364c1b9.chunk.css.map",
+    "static/css/main.42d9aeaa.chunk.css.map": "/static/css/main.42d9aeaa.chunk.css.map",
+    "static/js/2.44290899.chunk.js.LICENSE.txt": "/static/js/2.44290899.chunk.js.LICENSE.txt",
+    "static/media/1.021153f1.png": "/static/media/1.021153f1.png",
+    "static/media/1.5b0aec9b.jpg": "/static/media/1.5b0aec9b.jpg",
+    "static/media/2.21b75f11.png": "/static/media/2.21b75f11.png",
+    "static/media/2.26ed3ab6.jpg": "/static/media/2.26ed3ab6.jpg",
+    "static/media/2.f7fd4da5.jpg": "/static/media/2.f7fd4da5.jpg",
+    "static/media/3.23f19cc1.jpg": "/static/media/3.23f19cc1.jpg",
+    "static/media/3.af2ba391.png": "/static/media/3.af2ba391.png",
+    "static/media/4.56a251dc.jpg": "/static/media/4.56a251dc.jpg",
+    "static/media/4.d5810382.jpg": "/static/media/4.d5810382.jpg",
+    "static/media/5.312337f7.png": "/static/media/5.312337f7.png",
+    "static/media/5.88098a50.jpg": "/static/media/5.88098a50.jpg",
+    "static/media/5.d131ec58.jpg": "/static/media/5.d131ec58.jpg",
+    "static/media/7.952ef744.jpg": "/static/media/7.952ef744.jpg",
+    "static/media/ScreenShots.css": "/static/media/download-app-bg.d4abb64e.jpg",
+    "static/media/all.css": "/static/media/fa-solid-900.efbd5d20.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f88bf2b5.js",
+    "static/css/2.1364c1b9.chunk.css",
+    "static/js/2.44290899.chunk.js",
+    "static/css/main.42d9aeaa.chunk.css",
+    "static/js/main.9ba8773f.chunk.js"
+  ]
+}
